@@ -167,9 +167,9 @@ cython_debug/
 *.tsv.gz
 *.xlsx
 *.webp
-*.png
-*.jpeg
-*.jpg
+# *.png
+# *.jpeg
+# *.jpg
 # Ignore CSV, Excel, and other file types in any folder
 **/*.csv
 **/*.csv.gz
