@@ -12,3 +12,4 @@ statsmodels
 ipykernel
 nltk
 spacy
+inflect
