@@ -158,3 +158,29 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Additional patterns you want to ignore
+*.json
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
+*.webp
+*.png
+*.jpeg
+*.jpg
+# Ignore CSV, Excel, and other file types in any folder
+**/*.csv
+**/*.csv.gz
+**/*.tsv
+**/*.tsv.gz
+**/*.xlsx
+**/*.webp
+**/*.png
+**/*.jpeg
+**/*.jpg
+
+Day2 - Tokenization_NLP/
+Day3 - Data_Cleaning_NLP/
+Day4 - Text_Preprocessing _NLP/
