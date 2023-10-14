@@ -13,3 +13,4 @@ ipykernel
 nltk
 spacy
 inflect
+tensorflow==2.5.0
